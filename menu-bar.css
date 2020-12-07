@@ -1,0 +1,9 @@
+.menu-bar {
+    height: 100px;
+    background-color: #000000;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px 100px;
+}
